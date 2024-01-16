@@ -4,7 +4,7 @@
   }.map(&:name).grep(/^P./)
 -%>
 ---
-cluster: "*"
+cluster: "cs146-dedicated"
 cacheable: false
 form:
   - bc_num_hours
@@ -19,5 +19,5 @@ attributes:
     label: "Number of CPUs"
     value: 1
     min: 1
-    max: 4
+    max: 2
     step: 1
