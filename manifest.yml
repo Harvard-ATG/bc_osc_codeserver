@@ -1,10 +1,10 @@
 ---
-name: Code Server
+name: CS 146 Dedicated Code Server
 category: Interactive Apps
 subcategory: Servers
 role: batch_connect
 description: |
-  This app will launch a [VS Code] server using [Code Server].
+  This app will launch a [VS Code] server using [Code Server]. It will launch in a c5.large instance for use in CS 146
 
   [VS Code]: https://code.visualstudio.com/
   [Code Server]: https://coder.com/
