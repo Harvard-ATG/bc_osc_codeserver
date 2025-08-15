@@ -1,3 +1,7 @@
+# Archived repository
+
+This repository is now archived. This application's configuration differs more significantly from the upstream application, so we have moved to an imported repository at https://github.com/Harvard-ATG/ood-codeserver for continued development.
+
 # Batch Connect - OSC Code Server
 
 ![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_codeserver.svg)
